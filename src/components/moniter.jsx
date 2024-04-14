@@ -97,6 +97,7 @@ const App = () => {
             <input type="text" id="type" name="type" value={newMonitorData.type} onChange={handleInputChange}
              className="relative cursor-pointer rounded-md bg-white font-semibold text-indigo-600 focus-within:outline-none focus-within:ring-2 focus-within:ring-indigo-600 focus-within:ring-offset-2 hover:text-indigo-500 " />
           </div>
+          <br></br><br></br>
           <button type="submit" className='btn btn-ghost bg-primary text-xl font-bold'>Create Monitor</button>
         </form>
       )}
