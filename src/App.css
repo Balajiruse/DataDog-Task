@@ -1,0 +1,28 @@
+/* App.css */
+.App{
+ text-align: center;
+
+}
+
+header{
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+
+.App-main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
